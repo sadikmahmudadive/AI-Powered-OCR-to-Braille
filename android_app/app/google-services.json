@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "346053667967",
+    "firebase_url": "https://ai-powered-ocr-to-braille-default-rtdb.firebaseio.com",
+    "project_id": "ai-powered-ocr-to-braille",
+    "storage_bucket": "ai-powered-ocr-to-braille.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346053667967:android:075f14a599a78abf84234a",
+        "android_client_info": {
+          "package_name": "com.braille.ocr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuqqmH0XAJcTsKrcCUek-Hyip_Pc-eAPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
