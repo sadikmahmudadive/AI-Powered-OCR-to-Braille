@@ -6,7 +6,7 @@
 #define WIFI_PASSWORD "01835120307"
 
 // Cloud API Configuration
-#define API_URL "http://192.168.0.100:8000/scan"
+#define API_URL "http://192.168.0.103:8000/scan"
 
 // Firebase Configuration
 #define FIREBASE_HOST "ai-powered-ocr-to-braille-default-rtdb.firebaseio.com"
